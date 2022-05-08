@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/887.987843f0.chunk.css","mappings":"AAGC,gCACC,YAEA,yCACC","sources":["styles/Home.scss"],"sourcesContent":["@import \"./Common.scss\";\n\n@include root_page(\"home\") {\n\t> main {\n\t\tmargin: auto;\n\n\t\t.landing {\n\t\t\ttext-align: center;\n\t\t}\n\t}\n}\n"],"names":[],"sourceRoot":""}
